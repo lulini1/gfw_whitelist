@@ -1,4 +1,4 @@
-var wall_proxy = "SOCKS5 192.168.1.6:1080;";
+var wall_proxy = "SOCKS5 127.0.0.1:1080;";
 var nowall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var auto_proxy = wall_proxy; // if you have something like COW proxy
